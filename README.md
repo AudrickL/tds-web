@@ -1,2 +1,5 @@
 # tds-web
-Tds HTML / CSS / JS
+Tds 
+- HTML 
+- CSS 
+- JS
