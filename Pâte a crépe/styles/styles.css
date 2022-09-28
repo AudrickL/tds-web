@@ -1,0 +1,42 @@
+#lire {
+    color:brown;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: black;
+    text-decoration: underline;
+}
+
+body {
+    color:rgb(73, 73, 73);
+}
+
+#recettes {
+    text-decoration: overline, underline;
+}
+
+#saveurs {
+    background-color: black;
+    background-position: center;
+    color: white;
+    width: 25%;
+    margin: auto;
+    text-align: center;
+}
+
+#navigateur{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: gray;
+
+}
+
+#navigateur li {
+    display: inline;
+    padding: 16px;
+    color: white;
+    
+}
